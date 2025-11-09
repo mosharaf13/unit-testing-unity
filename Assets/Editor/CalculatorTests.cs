@@ -3,7 +3,7 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-public class CalculatorTest
+public class CalculatorTests
 {
     private Calculator _calculator;
 
